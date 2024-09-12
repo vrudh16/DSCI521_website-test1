@@ -3,4 +3,4 @@ title: "About"
 ---
 
 About this site
-yo
+yobb
